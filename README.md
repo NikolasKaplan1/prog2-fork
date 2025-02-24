@@ -3,11 +3,11 @@
 
 ## Autores
 
-* (Coordinador) [Nombre 1 Apellido 1 Apellido 1](https://github.com/alumno1)
-* [Nombre 2 Apellido 2 Apellido 2](https://github.com/alumno2)
-* [Nombre 3 Apellido 3 Apellido 3](https://github.com/alumno3)
-* [Nombre 4 Apellido 4 Apellido 4](https://github.com/alumno4)
-* [Nombre 5 Apellido 5 Apellido 5](https://github.com/alumno5)
+* (Coordinador) [Nikolas Kaplan](https://github.com/nmk8)
+* [Patricia Pérez Ferre](https://github.com/ppf30)
+* [Mohamed Arahouani Khallada](https://github.com/mak5)
+* [Adrián López Gallardo](https://github.com/alg204)
+
 
 ## Profesor
 [//]: # (Dejad a quien corresponda)
