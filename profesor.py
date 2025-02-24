@@ -17,10 +17,10 @@ class Profesor:
         return f"Nombre: {self.nombre}, Especialidad: {self.especialidad}, cursos asignados: {self.cursos_asignados}"
 
     def __repr__(self):
-        pass
+        return f"Nombre: {self.nombre}, Especialidad: {self.especialidad}, cursos asignados: {self.cursos_asignados}"
 
     def desde_tupla(self):
-
+        pass
 
     def esta_disponible_para_nuevo_curso(self):
         pass
